@@ -32,6 +32,6 @@
 //encoder pins
 #define ENCODERS_PAD_A { A3, A7 }
 #define ENCODERS_PAD_B { A1, A5 }
-#define ENCODER_RESOLUTION 4
+#define ENCODER_RESOLUTION 2
 
 #define DIODE_DIRECTION COL2ROW
